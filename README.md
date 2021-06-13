@@ -26,7 +26,7 @@ Expenses é um app para organizar gastos no decorrer de uma semana. Para utiliza
 
 Demonstração do uso do App
 
--Modo retrato:
+- Modo retrato:
 <p align="center">
   <img alt="" title="#" src="./assets/images/screenshot_1.jpg"  width="200px">
   <img alt="" title="#" src="./assets/images/screenshot_2.jpg"  width="200px">
@@ -34,7 +34,8 @@ Demonstração do uso do App
   <img alt="" title="#" src="./assets/images/screenshot_4.jpg"  width="200px">
   <img alt="" title="#" src="./assets/images/screenshot_5.jpg"  width="200px">
 </p>
--Modo paisagem:
+
+- Modo paisagem:
 <p align="center">
   <img alt="" title="#" src="./assets/images/screenshot_6.jpg"  width="500px">
   <img alt="" title="#" src="./assets/images/screenshot_7.jpg"  width="500px">
