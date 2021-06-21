@@ -60,7 +60,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/willyoliv/projeto_perguntas.git
+$ git clone https://github.com/willyoliv/expenses.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd bytebank
